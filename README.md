@@ -1,7 +1,7 @@
 # Application_Of_A_Construction_Company_Without_Or_With_A_Graphical_Interface_in_Java
 
 
-I created an application in which the user can use manufacturing company functions.
+I created an application in java in which the user can use manufacturing company functions.
 
 Application functions :
 
