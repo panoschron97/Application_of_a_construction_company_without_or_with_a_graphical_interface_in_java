@@ -3,7 +3,7 @@
 
 I created an application in java in which the user can use manufacturing company functions.
 
-Application functions :
+Application functions:
 
 1. Create an employee.
 2. Create a section.
@@ -22,4 +22,4 @@ Application functions :
 15. Cost calculation for a project.
 16. Calculation of net income for a project.
 17. Show all details of the project with the most net income.
-18. Show all details of the construction company
+18. Show all details of the construction company.
