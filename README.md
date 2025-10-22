@@ -1,22 +1,83 @@
-I created an application in java in which the user can use manufacturing company functions.
 
-Application functions:
+<div align="center">
+  
+# Construction Company Application in Java
+  
+[![License](https://img.shields.io/badge/License-Placeholder-blue.svg)](https://opensource.org/licenses/Placeholder)
+[![Stars](https://img.shields.io/github/stars/panoschron97/Application_of_a_construction_company_without_or_with_a_graphical_interface_in_java?style=social)](https://github.com/panoschron97/Application_of_a_construction_company_without_or_with_a_graphical_interface_in_java)
+[![Forks](https://img.shields.io/github/forks/panoschron97/Application_of_a_construction_company_without_or_with_a_graphical_interface_in_java?style=social)](https://github.com/panoschron97/Application_of_a_construction_company_without_or_with_a_graphical_interface_in_java)
 
-1. Create an employee.
-2. Create a section.
-3. Create a project.
-4. Assigning an employee to a department.
-5. Assigning an employee as a department manager.
-6. Assigning a department employee to a project.
-7. Update employee data.
-8. Update department employee data.
-9. Update department manager data.
-10. Informing a department employee on a project.
-11. Transfer of department employee to another department.
-12. Assigning a department manager to another department employee.
-13. Calculation of a specific employee's salary.
-14. Cost calculation for a department.
-15. Cost calculation for a project.
-16. Calculation of net income for a project.
-17. Show all details of the project with the most net income.
-18. Show all details of the construction company.
+</div>
+
+This Java application simulates the operations of a construction company, allowing users to manage employees, departments, projects, and financial aspects, with or without a graphical interface.
+
+## Key Features
+
+-   **Employee Management**: Create, update, and assign employees to departments or projects.
+-   **Department Management**: Define departments within the company.
+-   **Project Management**: Create and manage construction projects, tracking costs and revenue.
+-   **Financial Calculations**: Calculate employee salaries, department costs, and project net income.
+-   **Reporting**: Show all company details and identify the most profitable projects.
+-   **Data Persistence**: Utilizes text files to store and retrieve data, ensuring data persistence between sessions.
+-   **Graphical User Interface (GUI)**: Provides a user-friendly interface for easy interaction (if enabled).
+-   **Menu-Driven Interface**: Navigate through various functions using a menu system.
+
+## Table of Contents
+
+1.  [Installation](#installation)
+2.  [Usage](#usage)
+3.  [Dependencies](#dependencies)
+4.  [Contributing](#contributing)
+5.  [License](#license)
+6.  [Contact](#contact)
+
+## Installation
+
+1.  Clone the repository:
+
+    ```bash
+    git clone https://github.com/panoschron97/Application_of_a_construction_company_without_or_with_a_graphical_interface_in_java.git
+    cd Application_of_a_construction_company_without_or_with_a_graphical_interface_in_java
+    ```
+
+2.  Ensure you have the Java Development Kit (JDK) installed. If not, download and install it from [Oracle's website](https://www.oracle.com/java/technologies/javase-downloads.html) or use an open-source distribution like [OpenJDK](https://openjdk.java.net/).
+
+## Usage
+
+1.  Compile the Java source files:
+
+    ```bash
+    javac Java_project/Project2_Java_2020/src/project2_java_2020/*.java
+    ```
+
+2.  Run the application:
+
+    ```bash
+    java project2_java_2020.Project2_Java_2020
+    ```
+
+    Alternatively, if you are using an IDE like NetBeans, you can open the project and run it directly from the IDE.
+
+## Dependencies
+
+-   [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) - Required for compiling and running the Java application.
+
+## Contributing
+
+Contributions are welcome! Here’s how you can contribute:
+
+1.  Fork the repository.
+2.  Create a new branch for your feature or bug fix.
+3.  Make your changes and commit them with descriptive messages.
+4.  Push your changes to your fork.
+5.  Submit a pull request to the main repository.
+
+## License
+
+This project is licensed under the Placeholder License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+*   [panoschron97](mailto:example@example.com) - Maintainer
+
+```
