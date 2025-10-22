@@ -23,9 +23,6 @@ This Java application simulates the operations of a construction company, allowi
 1.  [Installation](#installation)
 2.  [Usage](#usage)
 3.  [Dependencies](#dependencies)
-4.  [Contributing](#contributing)
-5.  [License](#license)
-6.  [Contact](#contact)
 
 ## Installation
 
