@@ -62,20 +62,6 @@ This Java application simulates the operations of a construction company, allowi
 
 -   [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) - Required for compiling and running the Java application.
 
-## Contributing
-
-Contributions are welcome! Here’s how you can contribute:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them with descriptive messages.
-4.  Push your changes to your fork.
-5.  Submit a pull request to the main repository.
-
-## License
-
-This project is licensed under the Placeholder License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 *   [panoschron97](mailto:example@example.com) - Maintainer
