@@ -1,15 +1,15 @@
-# Construction company application in java
+# Construction company application in Java
 
-This Java application simulates the operations of a construction company, allowing users to manage employees, departments, projects, and financial aspects, with or without a graphical interface.
+This Java application simulates the operations of a construction company, allowing users to manage employees, departments, projects and financial aspects with or without a graphical interface.
 
 ## Key Features
 
--   **Employee Management**: Create, update, and assign employees to departments or projects.
+-   **Employee Management**: Create, update and assign employees to departments or projects.
 -   **Department Management**: Define departments within the company.
 -   **Project Management**: Create and manage construction projects, tracking costs and revenue.
--   **Financial Calculations**: Calculate employee salaries, department costs, and project net income.
+-   **Financial Calculations**: Calculate employee salaries, department costs and project net income.
 -   **Reporting**: Show all company details and identify the most profitable projects.
--   **Data Persistence**: Utilizes text files to store and retrieve data, ensuring data persistence between sessions.
+-   **Data Persistence**: Utilizes text files to store and retrieve data ensuring data persistence between sessions.
 -   **Graphical User Interface (GUI)**: Provides a user-friendly interface for easy interaction (if enabled).
 -   **Menu-Driven Interface**: Navigate through various functions using a menu system.
 
