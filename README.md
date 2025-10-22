@@ -61,9 +61,3 @@ This Java application simulates the operations of a construction company, allowi
 ## Dependencies
 
 -   [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) - Required for compiling and running the Java application.
-
-## Contact
-
-*   [panoschron97](mailto:example@example.com) - Maintainer
-
-```
