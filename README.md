@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# Construction Company Application in Java
+# Construction company application in java
   
 </div>
 
