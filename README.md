@@ -1,9 +1,4 @@
-
-<div align="center">
-  
 # Construction company application in java
-  
-</div>
 
 This Java application simulates the operations of a construction company, allowing users to manage employees, departments, projects, and financial aspects, with or without a graphical interface.
 
